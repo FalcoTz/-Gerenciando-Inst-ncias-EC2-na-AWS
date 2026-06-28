@@ -1,0 +1,46 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="LzFrAaqjf864pVEmBMxs">
+    <mxGraphModel dx="1268" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="750" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wle5OKawS5AGsM747vkF-17" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect" value="" vertex="1">
+          <mxGeometry height="650" width="410" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle5OKawS5AGsM747vkF-2" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.end_user;strokeColor=none;fillColor=#777777;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="100.46" width="49" x="780" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle5OKawS5AGsM747vkF-3" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.client;aspect=fixed;strokeColor=none;fillColor=#777777;" value="" vertex="1">
+          <mxGeometry height="110" width="63.46" x="562" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle5OKawS5AGsM747vkF-5" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.ebs;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;" value="D: - EBS" vertex="1">
+          <mxGeometry height="105.65" width="162" x="230" y="364.35" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle5OKawS5AGsM747vkF-6" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowSW;fillColor=#000000;aspect=fixed;fixDash=0;shadow=0;" value="" vertex="1">
+          <mxGeometry height="100.01" width="175" x="630" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle5OKawS5AGsM747vkF-7" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowNW;fillColor=#000000;aspect=fixed;" value="E&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;nvia arquivo&lt;/span&gt;" vertex="1">
+          <mxGeometry height="105.86" width="185.25" x="370" y="453.14" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle5OKawS5AGsM747vkF-10" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application_server;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;" value="EC2" vertex="1">
+          <mxGeometry height="124" width="123" x="60" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle5OKawS5AGsM747vkF-12" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowSE;fillColor=#000000;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="60" width="105" x="160" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle5OKawS5AGsM747vkF-13" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.ebs;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;" value="E&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;: - EBS&lt;/span&gt;" vertex="1">
+          <mxGeometry height="105.65" width="162" x="200" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle5OKawS5AGsM747vkF-14" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowSW;fillColor=#000000;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="48.86" width="85.5" x="160" y="184" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle5OKawS5AGsM747vkF-15" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.rds;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;strokeColor3=#ffffff;" value="RDS" vertex="1">
+          <mxGeometry height="133" width="123" x="77" y="497" as="geometry" />
+        </mxCell>
+        <mxCell id="Wle5OKawS5AGsM747vkF-16" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowSW;fillColor=#000000;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="60.29" width="105.5" x="170" y="444" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
